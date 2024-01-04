@@ -12,20 +12,27 @@ Waste Wizard presents a comprehensive approach to tackle these challenges:
 
 **1. Efficient Bio-waste Conversion**
 Development of a system to collect and convert 100% of bio-waste into clean energy.
+
 **2. Smart Bin & Mobile App Integration**
 Utilization of smart bins linked with a user-friendly mobile app for seamless waste collection.
+
 **3. Incentivized Waste Collection**
 Offer incentives and free waste collection services to incentivize customer participation.
+
 **4. Biofuel Generation & Fertilizer Production**
 Bio-waste is converted into energy using a biofuel generator, with the byproduct slurry used as fertilizer.
+
 **5. Energy Transport via Electric Shuttles**
 Utilization of campus electric shuttles for the transportation of bio-waste-derived energy.
+
 **6. Cost and Energy Estimates**
 The approximate setup cost of a Biodigester (1000L) is CAD 1000. Each cubic meter of biowaste contains about 6kWh energy, with 2kWh usable for energy generation.
 
 **Key Features**
 **Bio-waste Conversion:** Transforming bio-waste into clean energy efficiently.
+
 **Smart Collection System:** Integration of smart bins and a user-friendly mobile app for waste collection.
+
 **Circular Economy Model:** Generating both energy and fertilizer from bio-waste.
 
 **Implementation Insights**
